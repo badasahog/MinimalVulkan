@@ -1,6 +1,6 @@
 This project was made using the Sascha Willems Vulkan tutorial: https://vulkan-tutorial.com/
 
-(C) 2024-2025 badasahog. All Rights Reserved
+(C) 2025 badasahog. All Rights Reserved
 
 The above copyright notice shall be included in all copies or substantial portions of the Software.
 
